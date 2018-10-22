@@ -17,9 +17,16 @@ public class DetalheFilmeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detalhe_filme);
-        TextView txtFilme = (TextView)findViewById(R.id.txtFilme);
+        TextView nome = (TextView)findViewById(R.id.nome);
+        TextView descricao = (TextView) findViewById(R.id.descricao);
+        TextView diretor = (TextView) findViewById(R.id.diretor);
+        TextView dtLancamento = (TextView)findViewById(R.id.dtLancamento);
+
         Intent intent = getIntent();
         Filme filme = (Filme)intent.getSerializableExtra(ListarFilmesActivity.FILME);
-        txtFilme.setText(filme.toString());
+        nome.setText(filme.getNome());
+        descricao.setText(filme.getGenero());
+        diretor.setText(filme.getDiretor());
+        dtLancamento.setText(filme.getDtLancamento());
     }
 }

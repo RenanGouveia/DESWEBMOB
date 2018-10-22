@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 14 17:09:08 BRT 2018
+#Sun Oct 21 22:24:12 BRST 2018
 1.base=C\:\\Users\\renan\\usjt_entregas\\DESWEBMOB\\PipocaMobile\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 2.path=classes.dex
 0.baseType=DIRECTORY

@@ -1,4 +1,4 @@
-#Sun Oct 14 21:06:47 BRT 2018
+#Sun Oct 21 23:35:24 BRST 2018
 base.0=C\:\\Users\\renan\\usjt_entregas\\DESWEBMOB\\PipocaMobile\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex

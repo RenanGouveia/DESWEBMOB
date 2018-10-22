@@ -45,39 +45,253 @@ public class Catalogo {
         ArrayList<Filme> filmes = new ArrayList<>();
         Filme filme;
         filme = new Filme();
-        filme.setNome("Nome Teste");
+        filme.setNome("Nome Teste 1");
         filme.setDiretor("Diretor Teste");
         filme.setDtLancamento("2018-09-06");
         filme.setGenero("Ação");
         filmes.add(filme);
 
         filme = new Filme();
-        filme.setNome("Nome Teste");
+        filme.setNome("Nome Teste 2");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-09-06");
+        filme.setGenero("Ação");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 3");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-09-06");
+        filme.setGenero("Ação");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 4");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-09-06");
+        filme.setGenero("Ação");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 5");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-09-06");
+        filme.setGenero("Ação");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 6");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-09-06");
+        filme.setGenero("Ação");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 7");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-09-06");
+        filme.setGenero("Ação");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 1");
         filme.setDiretor("Diretor Teste");
         filme.setDtLancamento("2018-10-03");
         filme.setGenero("Aventura");
         filmes.add(filme);
 
         filme = new Filme();
-        filme.setNome("Nome Teste");
+        filme.setNome("Nome Teste 2");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Aventura");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 3");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Aventura");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 4");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Aventura");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 5");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Aventura");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 6");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Aventura");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 7");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Aventura");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 1");
         filme.setDiretor("Diretor Teste");
         filme.setDtLancamento("2018-10-03");
         filme.setGenero("Romance");
         filmes.add(filme);
 
         filme = new Filme();
-        filme.setNome("Nome Teste");
+        filme.setNome("Nome Teste 2");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Romance");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 3");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Romance");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 4");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Romance");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 5");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Romance");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 6");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Romance");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 7");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Romance");
+        filmes.add(filme);
+
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 1");
         filme.setDiretor("Diretor Teste");
         filme.setDtLancamento("2018-10-03");
         filme.setGenero("Terror");
         filmes.add(filme);
 
         filme = new Filme();
-        filme.setNome("Nome Teste");
+        filme.setNome("Nome Teste 2");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Terror");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 3");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Terror");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 4");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Terror");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 5");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Terror");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 6");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Terror");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 7");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Terror");
+        filmes.add(filme);
+
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 1");
         filme.setDiretor("Diretor Teste");
         filme.setDtLancamento("2018-10-03");
         filme.setGenero("Comédia");
         filmes.add(filme);
+
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 2");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Comédia");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 3");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Comédia");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 4");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Comédia");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 5");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Comédia");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 6");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Comédia");
+        filmes.add(filme);
+
+        filme = new Filme();
+        filme.setNome("Nome Teste 7");
+        filme.setDiretor("Diretor Teste");
+        filme.setDtLancamento("2018-10-03");
+        filme.setGenero("Comédia");
+        filmes.add(filme);
+
 
         return filmes;
 
