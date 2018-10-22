@@ -61,18 +61,18 @@ public final class R {
         public static final int notification_top_pad_large_text = 0x7f060069;
     }
     public static final class drawable {
-        public static final int notification_action_background = 0x7f070057;
-        public static final int notification_bg = 0x7f070058;
-        public static final int notification_bg_low = 0x7f070059;
-        public static final int notification_bg_low_normal = 0x7f07005a;
-        public static final int notification_bg_low_pressed = 0x7f07005b;
-        public static final int notification_bg_normal = 0x7f07005c;
-        public static final int notification_bg_normal_pressed = 0x7f07005d;
-        public static final int notification_icon_background = 0x7f07005e;
-        public static final int notification_template_icon_bg = 0x7f07005f;
-        public static final int notification_template_icon_low_bg = 0x7f070060;
-        public static final int notification_tile_bg = 0x7f070061;
-        public static final int notify_panel_notification_icon_bg = 0x7f070062;
+        public static final int notification_action_background = 0x7f070058;
+        public static final int notification_bg = 0x7f070059;
+        public static final int notification_bg_low = 0x7f07005a;
+        public static final int notification_bg_low_normal = 0x7f07005b;
+        public static final int notification_bg_low_pressed = 0x7f07005c;
+        public static final int notification_bg_normal = 0x7f07005d;
+        public static final int notification_bg_normal_pressed = 0x7f07005e;
+        public static final int notification_icon_background = 0x7f07005f;
+        public static final int notification_template_icon_bg = 0x7f070060;
+        public static final int notification_template_icon_low_bg = 0x7f070061;
+        public static final int notification_tile_bg = 0x7f070062;
+        public static final int notify_panel_notification_icon_bg = 0x7f070063;
     }
     public static final class id {
         public static final int action_container = 0x7f08000d;
@@ -84,10 +84,10 @@ public final class R {
         public static final int blocking = 0x7f080020;
         public static final int bottom = 0x7f080021;
         public static final int chronometer = 0x7f080028;
-        public static final int end = 0x7f08003a;
-        public static final int forever = 0x7f080040;
-        public static final int icon = 0x7f080046;
-        public static final int icon_group = 0x7f080047;
+        public static final int end = 0x7f080039;
+        public static final int forever = 0x7f08003f;
+        public static final int icon = 0x7f080045;
+        public static final int icon_group = 0x7f080046;
         public static final int info = 0x7f08004a;
         public static final int italic = 0x7f08004c;
         public static final int left = 0x7f08004d;

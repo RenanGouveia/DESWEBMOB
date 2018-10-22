@@ -7,7 +7,7 @@
     tools:context="br.usjt.deswebmob.pipoca_mobile.DetalheFilmeActivity">
 
     <ImageView
-        android:src="@mipmap/ic_launcher"
+        android:src="@drawable/ic_movie_black_24dp"
         android:contentDescription=""
         android:id="@+id/icon"
         android:layout_width="50dp"

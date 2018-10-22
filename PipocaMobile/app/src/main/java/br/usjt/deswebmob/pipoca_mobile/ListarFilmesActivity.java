@@ -11,6 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Renan Gouveia
@@ -33,11 +34,17 @@ public class ListarFilmesActivity extends AppCompatActivity {
         Intent intent = getIntent();
         String generos = intent.getStringExtra(MainActivity.CHAVE);
         filmes = Catalogo.listarFilmes(generos);
-        nomes = Catalogo.listarNomes(filmes);
+        //nomes = Catalogo.listarNomes(filmes);
 
-        ListView listView = (ListView) findViewById(R.id.lista_filmes);
+        /*
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, nomes);
+        */
+
+        ListView listView = (ListView) findViewById(R.id.lista_filmes);
+
+        FilmeAdapter adapter = new FilmeAdapter(this, filmes);
+
         listView.setAdapter(adapter);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
