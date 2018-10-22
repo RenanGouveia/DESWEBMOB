@@ -4,32 +4,18 @@ ADDED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\Andr
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:2:1-25:12
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:2:1-25:12
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\80b12589406283361703f62bd164fea8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2de3cddfd4eb774c84625fff286066e5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\72a895f4802ee42ae41271bc86ddad27\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\bf041f187fb7b67f110e8ca786c335be\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\80ebaf093389293e88e5c1efa21fb02b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\5845ba0089bdac051c7a2f67be5efd04\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\1e23ff3321f362b03e53501adcda6a71\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\3a26e65e992ab484f7b21986a03fe21f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\21845bbc3f1e57871e5c8a4ac4b6b142\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\5fbb84b6aa62864406a5e8a10c193758\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\6e0e82be28b55684ebd901b25d9a1ee0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\cb1101009ee8e0ef3604b16d4f30e37c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\fce2b7a270bd1f1233d7b8f5a1e3eab7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\e0c8f2b0ceedc96bd4c63fbee5a8b5b7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\01dfbb8bceca530ff0fb1105b0a05e11\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\326b43fe83baa757fc6af071449631e3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\131e6e1cf515b15b115c3844d4f40be7\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e78a96dd04739dde1416dbe447c0862b\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\3be1dfaeecaa5c7232a49c23f573dd1f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1af85ed5d20c675bf70c3b748d4c06bd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\02606cfa6587cf6334c57ec0e1bea2e9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\f026c2b1efd98dd08ddb44b33e73f55d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\defdf6bc927f5b822a8414686d44a702\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b558bb28a642b81a86d4c2e26e3bd981\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c9c72f28be45ba893c0fac90ce11025b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2ed134f171f61285fa804b32bd09b3c9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\5ceab394ba82e2b841026b4d719c8444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\aae6fe9d2b5b2be35c5fba7042a8bd49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a15a7cc752cd654edf3964f0c79c4f98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\714fd6a20bd3a5960907ea33ecfe3d63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3a4e0c3e113c4fc07cc5e8b9e54d551e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\13b05eb8ba8a13e62dbc408822d7ed09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\298bd88d53b0e8bbe6e6365fae889b25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9bbec395558ee1d61631445d9aa14220\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ba40ab10976d6bbb29039019f6ceed3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53e2fa425e30c47a2427ee63d5e46023\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\621b44870efa97fabebf5b1161e308fe\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:2:1-25:12
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:2:1-25:12
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:2:1-25:12
@@ -51,12 +37,6 @@ application
 ADDED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\72a895f4802ee42ae41271bc86ddad27\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\72a895f4802ee42ae41271bc86ddad27\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\131e6e1cf515b15b115c3844d4f40be7\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\131e6e1cf515b15b115c3844d4f40be7\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e78a96dd04739dde1416dbe447c0862b\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e78a96dd04739dde1416dbe447c0862b\AndroidManifest.xml:22:5-23:19
-	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\131e6e1cf515b15b115c3844d4f40be7\AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -103,58 +83,30 @@ uses-sdk
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\80b12589406283361703f62bd164fea8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\80b12589406283361703f62bd164fea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2de3cddfd4eb774c84625fff286066e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2de3cddfd4eb774c84625fff286066e5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\72a895f4802ee42ae41271bc86ddad27\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\72a895f4802ee42ae41271bc86ddad27\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\bf041f187fb7b67f110e8ca786c335be\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\bf041f187fb7b67f110e8ca786c335be\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\80ebaf093389293e88e5c1efa21fb02b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\80ebaf093389293e88e5c1efa21fb02b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\5845ba0089bdac051c7a2f67be5efd04\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\5845ba0089bdac051c7a2f67be5efd04\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\1e23ff3321f362b03e53501adcda6a71\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\1e23ff3321f362b03e53501adcda6a71\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\3a26e65e992ab484f7b21986a03fe21f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\3a26e65e992ab484f7b21986a03fe21f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\21845bbc3f1e57871e5c8a4ac4b6b142\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\21845bbc3f1e57871e5c8a4ac4b6b142\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\5fbb84b6aa62864406a5e8a10c193758\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\5fbb84b6aa62864406a5e8a10c193758\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\6e0e82be28b55684ebd901b25d9a1ee0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\6e0e82be28b55684ebd901b25d9a1ee0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\cb1101009ee8e0ef3604b16d4f30e37c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\cb1101009ee8e0ef3604b16d4f30e37c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\fce2b7a270bd1f1233d7b8f5a1e3eab7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\fce2b7a270bd1f1233d7b8f5a1e3eab7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\e0c8f2b0ceedc96bd4c63fbee5a8b5b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\e0c8f2b0ceedc96bd4c63fbee5a8b5b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\01dfbb8bceca530ff0fb1105b0a05e11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\01dfbb8bceca530ff0fb1105b0a05e11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\326b43fe83baa757fc6af071449631e3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\326b43fe83baa757fc6af071449631e3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\131e6e1cf515b15b115c3844d4f40be7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\131e6e1cf515b15b115c3844d4f40be7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e78a96dd04739dde1416dbe447c0862b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e78a96dd04739dde1416dbe447c0862b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\3be1dfaeecaa5c7232a49c23f573dd1f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\3be1dfaeecaa5c7232a49c23f573dd1f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1af85ed5d20c675bf70c3b748d4c06bd\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1af85ed5d20c675bf70c3b748d4c06bd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\02606cfa6587cf6334c57ec0e1bea2e9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\02606cfa6587cf6334c57ec0e1bea2e9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\f026c2b1efd98dd08ddb44b33e73f55d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\f026c2b1efd98dd08ddb44b33e73f55d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\defdf6bc927f5b822a8414686d44a702\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\defdf6bc927f5b822a8414686d44a702\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b558bb28a642b81a86d4c2e26e3bd981\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b558bb28a642b81a86d4c2e26e3bd981\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c9c72f28be45ba893c0fac90ce11025b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c9c72f28be45ba893c0fac90ce11025b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2ed134f171f61285fa804b32bd09b3c9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2ed134f171f61285fa804b32bd09b3c9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\5ceab394ba82e2b841026b4d719c8444\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\5ceab394ba82e2b841026b4d719c8444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\aae6fe9d2b5b2be35c5fba7042a8bd49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\aae6fe9d2b5b2be35c5fba7042a8bd49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a15a7cc752cd654edf3964f0c79c4f98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a15a7cc752cd654edf3964f0c79c4f98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\714fd6a20bd3a5960907ea33ecfe3d63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\714fd6a20bd3a5960907ea33ecfe3d63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3a4e0c3e113c4fc07cc5e8b9e54d551e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3a4e0c3e113c4fc07cc5e8b9e54d551e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\13b05eb8ba8a13e62dbc408822d7ed09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\13b05eb8ba8a13e62dbc408822d7ed09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\298bd88d53b0e8bbe6e6365fae889b25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\298bd88d53b0e8bbe6e6365fae889b25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9bbec395558ee1d61631445d9aa14220\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9bbec395558ee1d61631445d9aa14220\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ba40ab10976d6bbb29039019f6ceed3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ba40ab10976d6bbb29039019f6ceed3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53e2fa425e30c47a2427ee63d5e46023\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53e2fa425e30c47a2427ee63d5e46023\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\621b44870efa97fabebf5b1161e308fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\renan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\621b44870efa97fabebf5b1161e308fe\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\renan\usjt_entregas\DESWEBMOB\PipocaMobile\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

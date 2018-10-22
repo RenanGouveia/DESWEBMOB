@@ -4,7 +4,17 @@
             "outputFile": "C:\\Users\\renan\\usjt_entregas\\DESWEBMOB\\PipocaMobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\renan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc02.aar\\80b12589406283361703f62bd164fea8\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\renan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\298bd88d53b0e8bbe6e6365fae889b25\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\renan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\2de3cddfd4eb774c84625fff286066e5\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\renan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc02.aar\\131e6e1cf515b15b115c3844d4f40be7\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

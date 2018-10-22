@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -7,19 +7,32 @@
     tools:context="br.usjt.deswebmob.pipoca_mobile.MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="69dp"
         android:layout_height="wrap_content"
-        android:text="@string/lblGenero"/>
+        android:layout_alignTop="@+id/spinnerGenero"
+        android:layout_marginEnd="-82dp"
+        android:layout_toStartOf="@+id/spinnerGenero"
+        android:text="@string/lblGenero"
+        android:textColor="#000"
+        android:textStyle="bold" />
+
     <Spinner
         android:id="@+id/spinnerGenero"
-        android:layout_width="0dp"
+        android:layout_width="184dp"
         android:layout_height="wrap_content"
-        android:entries="@array/generos"
-        android:layout_weight="1"/>
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="14dp"
+        android:layout_weight="1"
+        android:entries="@array/generos" />
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/btn_busca"
-        android:onClick="listarFilmes"/>
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="21dp"
+        android:onClick="listarFilmes"
+        android:text="@string/btn_busca" />
 
-</LinearLayout>
+</RelativeLayout>

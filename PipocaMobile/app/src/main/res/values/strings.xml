@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Pipoca</string>
-    <string name="btn_busca">Listar </string>
+    <string name="btn_busca">Buscar </string>
     <string name="lblGenero">Gênero: </string>
     <string-array name="generos">
         <item>Todos</item>
@@ -10,4 +10,5 @@
         <item>Terror</item>
         <item>Comédia</item>
     </string-array>
+    <string name="lorem">Uma sinopse do filme, para deixar o espectador interessado. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis odio in odio eleifend, ac mattis lectus luctus. Aenean posuere aliquam lectus, ac ultricies elit elementum tempus. Duis ornare, arcu nec mollis vulputate, lectus mi tempus nunc, vel aliquet enim arcu placerat urna. </string>
 </resources>

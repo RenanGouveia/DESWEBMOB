@@ -1,69 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="br.usjt.deswebmob.pipoca_mobile.DetalheFilmeActivity">
 
+    <TextView
+        android:id="@+id/nome"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:textColor="#000"
+        android:textStyle="bold" />
+
     <ImageView
-        android:src="@drawable/ic_movie_black_24dp"
-        android:contentDescription=""
-        android:id="@+id/icon"
-        android:layout_width="50dp"
-        android:layout_height="match_parent"
-        android:scaleType="fitCenter"/>
+        android:id="@+id/imageView"
+        android:layout_width="346dp"
+        android:layout_height="191dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp"
+        app:srcCompat="@android:color/darker_gray" />
 
-    <GridLayout
-        android:useDefaultMargins="true"
-        android:columnCount="3"
-        android:rowCount="2"
-        android:layout_width="0dp"
-        android:layout_height="match_parent"
-        android:layout_weight="1">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_alignTop="@+id/diretor"
+        android:text="Direção:"
+        android:textColor="#000"
+        android:textStyle="bold"
+        tools:ignore="UnknownId" />
 
-        <TextView
+    <TextView
+        android:id="@+id/diretor"
+        android:layout_width="268dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="221dp" />
 
-            android:layout_column="0"
-            android:layout_row="0"
-            android:layout_columnSpan="3"
-            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-            android:id="@+id/nome"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="TextView"
+    <TextView
+        android:id="@+id/dtLancamento"
+        android:layout_width="161dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="193dp" />
 
-            />
-        <TextView
-            android:layout_columnWeight="1"
-            android:layout_column="0"
-            android:layout_row="1"
-            android:id="@+id/descricao"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="TextView"
-            />
-        <TextView
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_alignTop="@+id/dtLancamento"
+        android:text="Lançamento:"
+        android:textColor="#000"
+        android:textStyle="bold" />
 
-            android:layout_columnWeight="1"
-            android:layout_column="1"
-            android:layout_row="1"
-            android:id="@+id/diretor"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="TextView"
-            />
-        <TextView
+    <TextView
+        android:id="@+id/sinopse"
+        android:layout_width="339dp"
+        android:layout_height="123dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_marginBottom="53dp"
+        android:text="@string/lorem" />
 
-            android:layout_columnWeight="1"
-            android:layout_column="2"
-            android:layout_row="1"
-            android:id="@+id/dtLancamento"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="TextView"
-            />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_marginBottom="19dp"
+        android:text="Popularidade:"
+        android:textColor="#000"
+        android:textStyle="bold"/>
 
-    </GridLayout>
+    <TextView
+        android:id="@+id/popularidade"
+        android:layout_width="59dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/textView4"
+        android:layout_marginStart="128dp"/>
 
-</LinearLayout>
+    <TextView
+        android:id="@+id/genero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/nome"
+        android:layout_marginTop="19dp"
+        android:text="Gênero:"
+        android:textColor="#000"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/descricao"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/genero"
+        android:layout_toEndOf="@+id/genero" />
+
+
+</RelativeLayout>

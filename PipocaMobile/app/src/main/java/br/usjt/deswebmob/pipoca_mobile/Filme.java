@@ -16,6 +16,15 @@ public class Filme implements Serializable, Comparable {
     private String diretor;
     private String dtLancamento;
     private String genero;
+    private Double popularidade;
+
+    public Double getPopularidade() {
+        return popularidade;
+    }
+
+    public void setPopularidade(Double popularidade) {
+        this.popularidade = popularidade;
+    }
 
     public String getDiretor() {
         return diretor;
@@ -50,6 +59,7 @@ public class Filme implements Serializable, Comparable {
     }
 
 
+
     @Override
     public int compareTo(Object o) {
 
@@ -74,6 +84,7 @@ public class Filme implements Serializable, Comparable {
                 ", Diretor='" + diretor + '\'' +
                 ", Catalogo de Lançamento='" + dtLancamento + '\'' +
                 ", Gênero='" + genero + '\'' +
+                ", Popularidade='" + popularidade + '\'' +
                 '}';
     }
 }

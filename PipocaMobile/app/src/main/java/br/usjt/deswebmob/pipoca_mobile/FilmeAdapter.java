@@ -24,6 +24,7 @@ public class FilmeAdapter extends ArrayAdapter<Filme> {
         TextView nome;
         TextView diretor;
         TextView dtLancamento;
+        TextView popularidade;
     }
 
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent){
@@ -40,6 +41,7 @@ public class FilmeAdapter extends ArrayAdapter<Filme> {
             viewHolder.nome = raiz.findViewById(R.id.nome);
             viewHolder.diretor = raiz.findViewById(R.id.diretor);
             viewHolder.dtLancamento = raiz.findViewById(R.id.dtLancamento);
+            viewHolder.popularidade = raiz.findViewById(R.id.popularidade);
 
         }
         else{

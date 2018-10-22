@@ -21,6 +21,7 @@ public class DetalheFilmeActivity extends AppCompatActivity {
         TextView descricao = (TextView) findViewById(R.id.descricao);
         TextView diretor = (TextView) findViewById(R.id.diretor);
         TextView dtLancamento = (TextView)findViewById(R.id.dtLancamento);
+        TextView popularidade = (TextView) findViewById(R.id.popularidade);
 
         Intent intent = getIntent();
         Filme filme = (Filme)intent.getSerializableExtra(ListarFilmesActivity.FILME);
@@ -28,5 +29,6 @@ public class DetalheFilmeActivity extends AppCompatActivity {
         descricao.setText(filme.getGenero());
         diretor.setText(filme.getDiretor());
         dtLancamento.setText(filme.getDtLancamento());
+        popularidade.setText(filme.getPopularidade().toString());
     }
 }
