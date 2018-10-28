@@ -1,14 +1,11 @@
 <resources>
     <string name="app_name">Pipoca</string>
-    <string name="btn_busca">Buscar </string>
-    <string name="lblGenero">Gênero: </string>
-    <string-array name="generos">
-        <item>Todos</item>
-        <item>Ação</item>
-        <item>Aventura</item>
-        <item>Romance</item>
-        <item>Terror</item>
-        <item>Comédia</item>
-    </string-array>
-    <string name="lorem">Uma sinopse do filme, para deixar o espectador interessado. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis odio in odio eleifend, ac mattis lectus luctus. Aenean posuere aliquam lectus, ac ultricies elit elementum tempus. Duis ornare, arcu nec mollis vulputate, lectus mi tempus nunc, vel aliquet enim arcu placerat urna. </string>
+    <string name="btn_buscar">Buscar </string>
+    <string name="search_genero">Gênero: </string>
+    <string name="uri_listFilmes">https://api.themoviedb.org/3/discover/movie?api_key=9db7c03c5b831c2c9aec1a0645bfc617&amp;language=pt-BR&amp;with_genres=</string>
+    <string name="uri_genres">https://api.themoviedb.org/3/genre/movie/list?api_key=9db7c03c5b831c2c9aec1a0645bfc617&amp;language=pt-BR</string>
+    <string name="uri_image">https://image.tmdb.org/t/p/w300/</string>
+    <string name="uri_director">https://api.themoviedb.org/3/movie/%s/credits?api_key=9db7c03c5b831c2c9aec1a0645bfc617</string>
 </resources>
+
+   <!-- 2b0e5b43a3dedba3a6087bd547777110-->

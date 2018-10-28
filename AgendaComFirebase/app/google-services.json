@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "20864305049",
+    "firebase_url": "https://agendacomfirebase-cfaea.firebaseio.com",
+    "project_id": "agendacomfirebase-cfaea",
+    "storage_bucket": "agendacomfirebase-cfaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20864305049:android:32a8bfd4bcf3f6b0",
+        "android_client_info": {
+          "package_name": "br.com.gouveia.agendacomfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20864305049-m0jl7thdvg444bd4bb32s42c5mi929be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gouveia.agendacomfirebase",
+            "certificate_hash": "3bca0e76f1b5c3bfa50a23e01d3a2bc432586cfc"
+          }
+        },
+        {
+          "client_id": "20864305049-j2tho4ncjnvo4454t90cakotq5mfqdsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOj0DhtnFU89rvHzQ3X8R8z8pm3tqnYKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20864305049-j2tho4ncjnvo4454t90cakotq5mfqdsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

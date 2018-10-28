@@ -4,70 +4,82 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="br.usjt.deswebmob.pipoca_mobile.DetalheFilmeActivity">
+    tools:context=".DetalheFilmeActivity"
+    android:background="@color/colorAccent">
 
     <TextView
-        android:id="@+id/nome"
-        android:layout_width="337dp"
+        android:id="@+id/tituloFilme"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="47dp"
-        android:textColor="#000"
-        android:textStyle="bold" />
+        android:layout_marginTop="46dp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        />
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="346dp"
-        android:layout_height="191dp"
+        android:layout_height="174dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="73dp"
+        android:layout_marginTop="75dp"
         app:srcCompat="@android:color/darker_gray" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/imageView"
-        android:layout_alignTop="@+id/diretor"
+        android:layout_alignTop="@+id/direcaoDetailTextView"
         android:text="Direção:"
-        android:textColor="#000"
-        android:textStyle="bold"
-        tools:ignore="UnknownId" />
+        android:textColor="#fff"
+        android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/diretor"
-        android:layout_width="268dp"
+        android:id="@+id/direcaoDetailTextView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignEnd="@+id/imageView"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="221dp" />
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="225dp"
+        android:layout_marginStart="75dp"
+        />
 
     <TextView
-        android:id="@+id/dtLancamento"
-        android:layout_width="161dp"
+        android:id="@+id/lancamentoDetailTextView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="193dp" />
+        android:layout_marginBottom="192dp"
+        android:layout_toEndOf="@+id/textView4" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/imageView"
-        android:layout_alignTop="@+id/dtLancamento"
+        android:layout_alignTop="@+id/lancamentoDetailTextView"
         android:text="Lançamento:"
-        android:textColor="#000"
-        android:textStyle="bold" />
+        android:textColor="#fff"
+        android:textStyle="bold"/>
 
-    <TextView
-        android:id="@+id/sinopse"
-        android:layout_width="339dp"
-        android:layout_height="123dp"
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="126dp"
         android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/imageView"
-        android:layout_marginBottom="53dp"
-        android:text="@string/lorem" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="53dp">
+
+        <TextView
+            android:id="@+id/descriptionTextView"
+            android:layout_width="339dp"
+            android:layout_height="123dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/imageView"
+            android:layout_marginBottom="53dp" />
+
+    </ScrollView>
+
 
     <TextView
         android:id="@+id/textView4"
@@ -77,34 +89,15 @@
         android:layout_alignStart="@+id/imageView"
         android:layout_marginBottom="19dp"
         android:text="Popularidade:"
-        android:textColor="#000"
+        android:textColor="#fff"
         android:textStyle="bold"/>
 
     <TextView
-        android:id="@+id/popularidade"
-        android:layout_width="59dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignTop="@+id/textView4"
-        android:layout_marginStart="128dp"/>
-
-    <TextView
-        android:id="@+id/genero"
+        android:id="@+id/popularidadeTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_alignStart="@+id/nome"
-        android:layout_marginTop="19dp"
-        android:text="Gênero:"
-        android:textColor="#000"
-        android:textStyle="bold"/>
-
-    <TextView
-        android:id="@+id/descricao"
-        android:layout_width="149dp"
-        android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/genero"
-        android:layout_toEndOf="@+id/genero" />
+        android:layout_alignStart="@+id/lancamentoDetailTextView"
+        android:layout_alignTop="@+id/textView4" />
 
 
 </RelativeLayout>

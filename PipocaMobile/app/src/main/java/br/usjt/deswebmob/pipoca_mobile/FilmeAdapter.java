@@ -10,48 +10,48 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-
 import java.util.List;
+
+import br.usjt.deswebmob.pipoca_mobile.model.Filme;
 
 public class FilmeAdapter extends ArrayAdapter<Filme> {
 
-    public FilmeAdapter(Context context, List<Filme> filme){
-        super(context, -1, filme);
+    public FilmeAdapter(Context context, List<Filme> cast ){
+        super(context,-1,cast);
     }
 
-    private static class ViewHolder{
-        ImageView imageView;
-        TextView nome;
+    private  static class ViewHolder{
+        ImageView filmeImage;
+        TextView titulo;
         TextView diretor;
-        TextView dtLancamento;
-        TextView popularidade;
+        TextView dataLancamento;
     }
 
-    public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent){
+    @NonNull
+    @Override
+    public View getView(int position, @Nullable View convertView,
+                        @NonNull ViewGroup parent){
         Filme filme = getItem(position);
         View raiz = null;
         ViewHolder viewHolder = null;
         Context context = getContext();
-        if(convertView ==null){
+        if(convertView==null){
             LayoutInflater inflater = LayoutInflater.from(context);
-            raiz = inflater.inflate(R.layout.lista_personalizada, parent, false);
+            raiz = inflater.inflate(R.layout.lista_personalizada,parent,false);
             viewHolder = new ViewHolder();
             raiz.setTag(viewHolder);
-            viewHolder.imageView = raiz.findViewById(R.id.imagem);
-            viewHolder.nome = raiz.findViewById(R.id.nome);
-            viewHolder.diretor = raiz.findViewById(R.id.diretor);
-            viewHolder.dtLancamento = raiz.findViewById(R.id.dtLancamento);
-            viewHolder.popularidade = raiz.findViewById(R.id.popularidade);
-
+            viewHolder.filmeImage = raiz.findViewById(R.id.imageViewFilme);
+            viewHolder.titulo = raiz.findViewById(R.id.tituloFilme);
+            viewHolder.diretor = raiz.findViewById(R.id.diretorFilme);
+            viewHolder.dataLancamento = raiz.findViewById(R.id.dataLancamentoFilme);
         }
         else{
             raiz = convertView;
             viewHolder = (ViewHolder) raiz.getTag();
-
         }
-        viewHolder.nome.setText(filme.getNome());
+        viewHolder.titulo.setText(filme.getTitulo());
         viewHolder.diretor.setText(filme.getDiretor());
-        viewHolder.dtLancamento.setText(filme.getDtLancamento());
+        viewHolder.dataLancamento.setText(filme.getDataLancamento().toString());
         return  raiz;
     }
 }
